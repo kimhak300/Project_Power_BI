@@ -35,7 +35,7 @@ To view and interact with the dashboard, you will need Power BI Desktop installe
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ngimpanha123/Power_Bi.git
+    git clone https://github.com/kimhak300/Power_Bi.git
     ```
 2. Navigate to the project directory:
     ```bash
